@@ -1,4 +1,4 @@
-## PROMETHEUS SETUP GUIDE ON KUBERNETES
+## GRAFANA SETUP GUIDE ON KUBERNETES
 This guide walk through the installation of the `Grafana` instance on a Kubernetes cluster based on this repository. However, to be able to follow through, you need to have the below installed on your machine.
 - `A Kubernetes Cluster`
   - You can install a `Minikube` or any Cloud based Kubernetes cluster.
